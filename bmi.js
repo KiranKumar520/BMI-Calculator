@@ -13,7 +13,7 @@ function calculateBMI() {
     }
 
     if (height <= 0 || height > 250) {
-        alert('Please enter a valid height (between 1 cm and 250 cm).');
+    alert('Please enter a valid height (between 1 cm and 250 cm).');
         return;
     }
 
